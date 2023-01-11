@@ -443,16 +443,16 @@ section {
   font-style: normal;
 }
 
-/*.skills .progress-bar-wrap {
+.skills .progress-bar-wrap {
   background: #dce8f8;
   height: 7px;
-}*/
+}
 
 .skills .progress-bar {
   width: 1px;
   height: 7px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color: #000000;
 }
 
 /*--------------------------------------------------------------
