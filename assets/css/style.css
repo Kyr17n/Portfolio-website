@@ -275,7 +275,6 @@ text-decoration: none;
     background-attachment: fixed;
   }
 }
-
 @media (max-width: 768px) {
   #hero h1 {
     font-size: 28px;
