@@ -490,16 +490,16 @@ section {
   font-style: normal;
 }
 
-/*.skills .progress-bar-wrap {
+.skills .progress-bar-wrap {
   background: #dce8f8;
-  height: 1px;
+  height: 10px;
 }
-*/
+
 .skills .progress-bar {
   width: 1px;
-  height: 0.5px;
+  height: 10px;
   transition: 0.9s;
-  background-color: #0000004c;
+  background-color: #149ddd;
 }
 
 /*--------------------------------------------------------------
